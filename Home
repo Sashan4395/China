@@ -1,11 +1,9 @@
+<!DOCTYPE html>
 <html>
-<body>
- <h1> This website is about hardware </h1>
- <div class="topnav" id="myTopnav">
- <a href="home.html">Home</a>
- <a href="about.html">About</a>
- <a href="fight.html">Fight</a>
- <a href="esfonia.html">Estonia</a>
-</div>
-</body>
-</html> 
+	<head>
+		<title> Processer </title>
+	</head>
+	<body>
+		
+	</body>
+</html>
